@@ -1,0 +1,11 @@
+C:\Users\Remus Iftimie\Personal_GitHub\Lab15_Events\bin\Debug\netcoreapp3.1\Lab15_Events.exe
+C:\Users\Remus Iftimie\Personal_GitHub\Lab15_Events\bin\Debug\netcoreapp3.1\Lab15_Events.deps.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab15_Events\bin\Debug\netcoreapp3.1\Lab15_Events.runtimeconfig.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab15_Events\bin\Debug\netcoreapp3.1\Lab15_Events.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab15_Events\bin\Debug\netcoreapp3.1\Lab15_Events.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab15_Events\bin\Debug\netcoreapp3.1\Lab15_Events.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\Lab15_Events\obj\Debug\netcoreapp3.1\Lab15_Events.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Lab15_Events\obj\Debug\netcoreapp3.1\Lab15_Events.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Lab15_Events\obj\Debug\netcoreapp3.1\Lab15_Events.AssemblyInfo.cs
+C:\Users\Remus Iftimie\Personal_GitHub\Lab15_Events\obj\Debug\netcoreapp3.1\Lab15_Events.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab15_Events\obj\Debug\netcoreapp3.1\Lab15_Events.pdb
